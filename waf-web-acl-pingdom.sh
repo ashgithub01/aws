@@ -9,6 +9,9 @@
 # Requires the AWS CLI and jq, wget, perl
 
 
+#this is a dummy content for testing git
+
+
 # Set Variables
 CONDITIONNAME="Pingdom"
 DATE=$(date "+%Y-%m-%d")
